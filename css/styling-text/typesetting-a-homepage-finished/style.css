@@ -95,8 +95,9 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 5rem;
-  text-align: center;
+  color: #0070f3;
+  font-size: 8rem;
+  text-align: left;
 }
 
 h2 {
